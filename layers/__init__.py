@@ -1,3 +1,3 @@
 from .gcn import GCN
-from .assign import Assign
+from .readout import AvgReadout
 from .discriminator import Discriminator
